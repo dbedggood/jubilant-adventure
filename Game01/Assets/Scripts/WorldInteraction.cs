@@ -37,13 +37,13 @@ public class WorldInteraction : MonoBehaviour {
 
             if(interactedObject.tag == "Interactable Object")
             {
-                //prints message to console
-                Debug.Log("Interactable interacted.");
+                interactedObject.GetComponent<Interactable>().MoveToInteraction(playerAgent);
             }
             else
             {
                 //navigate the player to the point of interaction
                 playerAgent.destination = interactionInfo.point;
+                playerAgent.stoppingDistance = 0;
             }
 
         }
