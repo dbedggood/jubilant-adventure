@@ -6,25 +6,18 @@
 
 ---
 
+<details><summary>
 
+### 25th April, 2018
+</summary>
 
-<details>
-  <summary>
-    <p>### 25th April, 2018</p>
-  </summary>
-  ![interactions](gifs/25-04-18.gif "interactions")
+![interactions](gifs/25-04-18.gif "interactions")
 </details>
 
-<details>
-  <summary>
-    ### 24th April, 2018
-  </summary>
-  <p>![pathfinding](gifs/24-04-18.gif "pathfinding")</p>
-</details>
+<details><summary>
 
-<details><summary>### 24th April, 2018</summary>
-<p>
+### 24th April, 2018
+</summary>
 
 ![pathfinding](gifs/24-04-18.gif "pathfinding")
-
-</p></details>
+</details>
