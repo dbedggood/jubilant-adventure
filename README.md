@@ -15,7 +15,14 @@
 
 
 
-<details><summary>24th April, 2018</summary>
+<details>
+
+<summary>
+
+<h3>24th April, 2018</h3>
+
+</summary>
 
 ![pathfinding](gifs/24-04-18.gif "pathfinding")
+
 </details>
