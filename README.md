@@ -5,3 +5,6 @@
 
 ## 25th April, 2018
 ![interactions](gifs/25-04-18.gif "interactions")
+
+## 28th April, 2018
+![dialogue](gifs/28-04-18.gif "dialogue")

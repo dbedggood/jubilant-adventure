@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class RibCage : ActionItem {
 
+    public string[] dialogue;
     public override void Interact()
     {
-        Debug.Log("I wonder what left these here?");
+        DialogueManager.Instance.AddNewDialogue(dialogue, "Bones");
     }
 
 }
